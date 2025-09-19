@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anishsony1999](https://github.com/Anishsony1999)
 
-- 💬 Ask me about **Java, Spring boot, Python**
+- 💬 Ask me about **Java, Spring boot, Python, Django**
 
 - 📫 How to reach me **anishsony1999@gmail.com**
 
